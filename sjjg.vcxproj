@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="define.h" />
     <ClInclude Include="Sequence List.h" />
+    <ClInclude Include="Sequence Stack.h" />
     <ClInclude Include="Single Linked List.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

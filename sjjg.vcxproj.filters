@@ -29,5 +29,8 @@
     <ClInclude Include="Single Linked List.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Sequence Stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
